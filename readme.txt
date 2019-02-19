@@ -13,7 +13,7 @@ npm test.
 node index.js
 
 endpoint:
-post: localhost:9999//complexity
+post: localhost:9999/complexity
 body
 {
     "text": "john smith loves going to the cinema"
